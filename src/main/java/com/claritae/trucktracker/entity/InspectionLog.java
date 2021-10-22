@@ -16,6 +16,7 @@ import javax.persistence.ManyToOne;
 import javax.persistence.OneToMany;
 import javax.persistence.Table;
 
+import com.claritae.trucktracker.truck.Truck;
 import com.claritae.trucktracker.utility.ActionTime;
 import com.claritae.trucktracker.utility.LogStatus;
 

@@ -15,6 +15,7 @@ import javax.persistence.OneToMany;
 import javax.persistence.OneToOne;
 import javax.persistence.Table;
 
+import com.claritae.trucktracker.truck.Truck;
 import com.claritae.trucktracker.utility.ActionTime;
 import com.fasterxml.jackson.annotation.JsonProperty;
 

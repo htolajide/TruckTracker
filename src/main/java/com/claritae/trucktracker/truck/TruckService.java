@@ -1,12 +1,9 @@
-package com.claritae.trucktracker.service;
+package com.claritae.trucktracker.truck;
 
 import java.time.LocalDateTime;
 import java.util.List;
 
 import javax.transaction.Transactional;
-
-import com.claritae.trucktracker.entity.Truck;
-import com.claritae.trucktracker.repository.TruckRepository;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;

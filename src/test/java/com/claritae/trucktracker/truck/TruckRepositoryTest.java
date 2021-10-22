@@ -1,7 +1,5 @@
 package com.claritae.trucktracker.truck;
 
-import com.claritae.trucktracker.entity.Truck;
-import com.claritae.trucktracker.repository.TruckRepository;
 import com.claritae.trucktracker.utility.Region;
 import com.claritae.trucktracker.utility.Transporter;
 import com.claritae.trucktracker.utility.TruckType;

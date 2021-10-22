@@ -3,7 +3,7 @@ package com.claritae.trucktracker.repository;
 import java.util.Optional;
 
 import com.claritae.trucktracker.entity.InspectionLog;
-import com.claritae.trucktracker.entity.Truck;
+import com.claritae.trucktracker.truck.Truck;
 
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

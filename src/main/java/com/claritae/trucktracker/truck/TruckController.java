@@ -1,9 +1,6 @@
-package com.claritae.trucktracker.controller;
+package com.claritae.trucktracker.truck;
 
 import java.util.List;
-
-import com.claritae.trucktracker.entity.Truck;
-import com.claritae.trucktracker.service.TruckService;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;

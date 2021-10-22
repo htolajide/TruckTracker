@@ -1,8 +1,6 @@
-package com.claritae.trucktracker.repository;
+package com.claritae.trucktracker.truck;
 
 import java.util.List;
-
-import com.claritae.trucktracker.entity.Truck;
 
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

@@ -1,4 +1,4 @@
-package com.claritae.trucktracker.entity;
+package com.claritae.trucktracker.truck;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
